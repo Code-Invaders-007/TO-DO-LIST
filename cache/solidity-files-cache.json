@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Abhishek S\\Desktop\\bc project\\to-do\\complete-ToDo-App\\contracts\\ToDoList.sol": {
+      "lastModificationDate": 1703355409725,
+      "contentHash": "d7041adc195cd6d213076fdf14546d2c",
+      "sourceName": "contracts/ToDoList.sol",
+      "solcConfig": {
+        "version": "0.8.9",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "ToDoList"
+      ]
+    }
+  }
+}
